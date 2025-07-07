@@ -1,3 +1,3 @@
 # checklist
--[] add
--[] commit
+-[ ] add
+-[ ] commit

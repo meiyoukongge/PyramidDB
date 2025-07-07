@@ -1,3 +1,4 @@
 # checklist
 -[ ] add
 -[ ] commit
+-[ ] push
